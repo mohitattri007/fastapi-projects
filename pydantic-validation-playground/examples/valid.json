@@ -1,0 +1,11 @@
+{
+  "username": "mohit",
+  "email": "mohit@example.com",
+  "age": 25,
+  "skills": ["python", "fastapi"],
+  "address": {
+    "street": "MG Road",
+    "city": "Bangalore",
+    "zipcode": "560001"
+  }
+}
