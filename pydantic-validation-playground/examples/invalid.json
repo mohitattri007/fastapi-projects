@@ -1,0 +1,10 @@
+{
+  "username": "ab",
+  "email": "wrong-email",
+  "age": 15,
+  "address": {
+    "street": "MG Road",
+    "city": "Bangalore",
+    "zipcode": "12"
+  }
+}
